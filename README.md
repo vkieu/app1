@@ -28,11 +28,11 @@ $mvn exec:java
 * Dependencies
 --
 Dependencies are listed in the pom.xml however I am going to list them here as well:
-** org.jsoup 1.8.3
-** junit 4.11
-** json-api 1.0
-** glassfish 1.0.4 (json implementation)	
-** powermock 1.5.1	
+- org.jsoup 1.8.3
+- junit 4.11
+- json-api 1.0
+- glassfish 1.0.4 (json implementation)	
+- powermock 1.5.1	
 
 When running for the first time, Maven will download all the dependencies.
 The assumption here is that the machine running this application will have Maven setup.
