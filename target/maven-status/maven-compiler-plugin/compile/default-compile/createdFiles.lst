@@ -1,0 +1,8 @@
+com\sains\app\screen\ProductListHtmlPage.class
+com\sains\app\screen\ProductHtmlPage.class
+com\sains\app\util\HtmlPageUtil.class
+com\sains\app\screen\ScreenController.class
+com\sains\app\AppProperties.class
+com\sains\app\transformer\PageResultsTransformer.class
+com\sains\app\App.class
+com\sains\app\screen\HtmlPage.class
